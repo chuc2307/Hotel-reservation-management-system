@@ -4,4 +4,4 @@ Designed and developed a hotel reservation management system for the Muong Thanh
 ## Results description
 - Collected and analyzed requirements from 200 employees and 200 customers at northern branches.
 - Modeled the system using CD, BFD, DFD, IFD, and ERD diagrams.
-- Successfully passed 100% of test cases (14/14) with no functional errors during the acceptance testing phase
+- Successfully passed 100% of test cases (14/14) with no functional errors during the acceptance testing phase.
