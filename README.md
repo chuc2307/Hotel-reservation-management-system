@@ -1,4 +1,4 @@
-# Muong Thanh Hotel reservation management system
+# Muong Thanh Hotel Reservation Management System
 ## Objectives
 Designed and developed a hotel reservation management system for the Muong Thanh hotel chain, aiming to integrate data from multiple booking platforms, optimize operational workflows across departments (reception, housekeeping, accounting, etc.), and enhance both customer experience and staff management efficiency.
 ## Results description
